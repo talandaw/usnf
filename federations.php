@@ -32,8 +32,14 @@
             <div id="gmap">
                 <iframe src="https://maps.google.com/?ie=UTF8&amp;ll=40.717989,-74.002705&amp;spn=0.043846,0.077162&amp;t=m&amp;z=14&amp;output=embed"></iframe>
             </div>
+            <p>
+                Opportunities to train in Naginata exist in six regional federations affiliated with the USNF. To find a
+                dojo near you, use the pull-down menu “local federations” to find the general area of the US you live
+                in. Then go to the web site of that region to find a dojo or contact a local instructor for instruction.
+            </p>
             <div class="row">
                 <div class="col-md-9 posts-archive causes-archive">
+
                     <article class="post cause-item">
                         <div class="row">
                             <div class="col-md-4 col-sm-4">

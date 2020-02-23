@@ -35,7 +35,7 @@ if(get_magic_quotes_gpc()) {
 // Example $address = "joe.doe@yourdomain.com";
 
 //$address = "example@themeforest.net";
-$address = "info@imithemes.com";
+$address = "talandaw@gmail.com";
 
 
 // Configuration option.
@@ -43,7 +43,7 @@ $address = "info@imithemes.com";
 
 // Example, $e_subject = '$name . ' has contacted you via Your Website.';
 
-$e_subject = 'Contact Form';
+$e_subject = 'Naginata.org Contact Form Submission';
 
 
 // Configuration option.
@@ -62,17 +62,19 @@ $headers .= "MIME-Version: 1.0" . PHP_EOL;
 $headers .= "Content-type: text/plain; charset=utf-8" . PHP_EOL;
 $headers .= "Content-Transfer-Encoding: quoted-printable" . PHP_EOL;
 
-if(mail($address, $e_subject, $msg, $headers)) {
-
-	// Email has sent successfully, echo a success page.
-
-	echo "<div class='alert alert-success'>";
-	echo "<h3>Email Sent Successfully.</h3><br>";
-	echo "<p>Thank you <strong>$name</strong>, your message has been submitted to us.</p>";
-	echo "</div>";
-
-} else {
-
-	echo 'ERROR!';
-
+if (mail($address, $e_subject, $msg, $headers)){
+    
+    // Email has sent successfully, echo a success page.
+    
+    echo "<div class='alert alert-success'>";
+    echo "<h3>Email Sent Successfully.</h3><br>";
+    echo "<p>Thank you <strong>$name</strong>, your message has been submitted to us.</p>";
+    echo "</div>";
+    
+}else{
+    echo "<div class='alert alert-error'>";
+    echo "<h3>There was an error sending your email.</h3><br>";
+    echo "<p>Please ensure all fields are complete and try again in a few minutes.</p>";
+    echo "</div>";
+    
 }
