@@ -17,13 +17,13 @@
     <meta name="format-detection" content="telephone=no">
     <!-- CSS
       ================================================== -->
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="plugins/mediaelement/mediaelementplayer.css" rel="stylesheet" type="text/css">
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-    <link href="plugins/prettyphoto/css/prettyPhoto.css" rel="stylesheet" type="text/css">
+    <link href="./css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="./plugins/mediaelement/mediaelementplayer.css" rel="stylesheet" type="text/css">
+    <link href="./css/style.css" rel="stylesheet" type="text/css">
+    <link href="./plugins/prettyphoto/css/prettyPhoto.css" rel="stylesheet" type="text/css">
     <!--[if lte IE 8]>
-    <link rel="stylesheet" type="text/css" href="css/ie8.css" media="screen"/><![endif]-->
-    <link href="css/custom.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="./css/ie8.css" media="screen"/><![endif]-->
+    <link href="./css/custom.css" rel="stylesheet" type="text/css">
     <!-- SCRIPTS
       ================================================== -->
     <script src="js/modernizr.js"></script><!-- Modernizr -->
@@ -31,8 +31,7 @@
 <body>
 <!--[if lt IE 7]>
 <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser
-    today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better
-    experience this site.</p>
+    today</a> to better experience this site.</p>
 <![endif]-->
 <div class="body">
     <!-- Start Site Header -->
@@ -41,8 +40,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-8">
-                        <h1 class="logo"><a href="/">
-                                <img src="images/usnf-mon.png" alt="USNF Logo" class="img-responsive" width="70px"></a>
+                        <h1 class="logo"><a href="./">
+                                <img src="./images/usnf-mon.png" alt="USNF Logo" class="img-responsive" width="70px"></a>
                             | United States Naginata Federation
                         </h1>
                     </div>
@@ -65,13 +64,13 @@
                     <div class="col-md-12">
                         <nav class="navigation">
                             <ul class="sf-menu">
-                                <li><a href="index.php">Home</a></li>
+                                <li><a href="./">Home</a></li>
                                 <li><a href="#">About the USNF</a>
                                     <ul class="dropdown">
-                                        <li><a href="about">What is Naginata?</a></li>
-                                        <li><a href="about.php#board">Board of Directors</a></li>
-                                        <li><a href="champions">US Champions</a></li>
-                                        <li><a href="history">USNF History</a></li>
+                                        <li><a href="./about">What is Naginata?</a></li>
+                                        <li><a href="./about.php#board">Board of Directors</a></li>
+                                        <li><a href="./champions">US Champions</a></li>
+                                        <li><a href="./history">USNF History</a></li>
                                     </ul>
                                 </li>
                                 <li class="megamenu"><a href="#">Regional Federations</a>
@@ -106,9 +105,10 @@
                                                     <div class="col-md-4">
                                                         <span class="megamenu-sub-title"><i class="fa fa-globe"></i> Discover More</span>
                                                         <ul class="sub-menu">
-                                                            <li><a href="federations">About Our Regional Federations</a><span class="meta-data">View the Map</span>
+                                                            <li><a href="./federations">About Our Regional
+                                                                    Federations</a><span class="meta-data">View the Map</span>
                                                             </li>
-                                                            <li><a href="federations.html#international">View
+                                                            <li><a href="./federations.php#international">View
                                                                     International Federation
                                                                     Info</a><span class="meta-data">Not in the United States?</span>
                                                             </li>
@@ -119,10 +119,10 @@
                                         </li>
                                     </ul>
                                 </li>
-
+                                
                                 <li><a href="#">Gallery</a>
                                     <ul class="dropdown">
-                                        <li><a href="us-gallery.html">USNF Events</a></li>
+                                        <li><a href="./us-gallery.php">USNF Events</a></li>
                                         <li><a href="#">Regional Galleries</a>
                                             <ul class="dropdown">
                                                 <li><a href="ecnf-gallery">East Coast</a></li>

@@ -221,27 +221,29 @@
               <li class="grid-item format-standard">
                 <div class="grid-item-inner"> <a href="single-event.html" class="media-box"> <img src="http://placehold.it/600x600&amp;text=IMAGE+PLACEHOLDER" alt=""> </a>
                   <div class="grid-content">
-                    <h3><a href="single-event.html">Evening Prayer</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam.</p>
+                      <h3><a href="single-event.html">Evening Prayer</a></h3>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec
+                          facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam.</p>
                   </div>
-                  <ul class="info-table">
-                    <li><i class="fa fa-calendar"></i> Monday | 7:00 AM - 1:00 PM</li>
-                    <li><i class="fa fa-map-marker"></i> 341 Magetic state, US</li>
-                  </ul>
+                    <ul class="info-table">
+                        <li><i class="fa fa-calendar"></i> Monday | 7:00 AM - 1:00 PM</li>
+                        <li><i class="fa fa-map-marker"></i> 341 Magetic state, US</li>
+                    </ul>
                 </div>
               </li>
-              <li class="grid-item format-standard">
-                <div class="grid-item-inner"> <a href="single-event.html" class="media-box"> <img src="http://placehold.it/800x450&amp;text=IMAGE+PLACEHOLDER" alt=""> </a>
-                  <div class="grid-content">
-                    <h3><a href="single-event.html">Evening Prayer</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam.</p>
-                  </div>
-                  <ul class="info-table">
-                    <li><i class="fa fa-calendar"></i> Monday | 7:00 AM - 1:00 PM</li>
-                    <li><i class="fa fa-map-marker"></i> 341 Magetic state, US</li>
-                  </ul>
-                </div>
-              </li>
+                <li class="grid-item format-standard">
+                    <div class="grid-item-inner"><a href="single-event.html" class="media-box"></a>
+                        <div class="grid-content">
+                            <h3><a href="single-event.html">Evening Prayer</a></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus.
+                                Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam.</p>
+                        </div>
+                        <ul class="info-table">
+                            <li><i class="fa fa-calendar"></i> Monday | 7:00 AM - 1:00 PM</li>
+                            <li><i class="fa fa-map-marker"></i> 341 Magetic state, US</li>
+                        </ul>
+                    </div>
+                </li>
               <li class="grid-item format-standard">
                 <div class="grid-item-inner"> <a href="single-event.html" class="media-box"> <img src="http://placehold.it/600x400&amp;text=IMAGE+PLACEHOLDER" alt=""> </a>
                   <div class="grid-content">

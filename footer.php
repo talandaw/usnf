@@ -14,17 +14,17 @@
                 <h4 class="footer-widget-title">Quick Links</h4>
                 <div class="col-md-6">
                     <ul>
-                        <li><a href="index">Home</a></li>
-                        <li><a href="about">About the USNF</a></li>
-                        <li><a href="federations">Regional Federations</a></li>
+                        <li><a href="./">Home</a></li>
+                        <li><a href="./about">About the USNF</a></li>
+                        <li><a href="./federations">Regional Federations</a></li>
                     </ul>
                 </div>
                 <div class="col-md-6">
                     <ul>
-                        <li><a href="calendar">Calendar of Events</a></li>
+                        <li><a href="./calendar">Calendar of Events</a></li>
                         <li><a href="#" data-placement="left" data-toggle="tooltip" data-original-title="Coming Soon!">Members
                                 Dashboard</a></li>
-                        <li><a href="contact">Contact Us</a></li>
+                        <li><a href="./contact">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
@@ -35,10 +35,10 @@
     <div class="container">
         <div class="row">
             <div class="copyrights-col-left col-md-6 col-sm-6">
-                <p>&copy; 2020 USNF. All Rights Reserved</p>
+                <p><?php echo date("Y"); ?> United States Naginata Federation</p>
             </div>
             <div class="copyrights-col-right col-md-6 col-sm-6">
-                <div class="social-icons">
+                <div class="social-icons row">
                     Connect with USNF & the Naginata Community:
                     <a href="https://www.facebook.com/United-States-Naginata-Federation-925385317560651" target="_blank"><i class="fa fa-facebook"></i></a>
                     <a href="https://twitter.com/hashtag/naginata?lang=en" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -49,4 +49,4 @@
     </div>
 </footer>
 <!-- End Footer -->
-<a id="back-to-top"><i class="fa fa-angle-double-up"></i></a> </div>
+<a id="back-to-top"><i class="fa fa-angle-double-up"></i></a>
