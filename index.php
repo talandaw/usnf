@@ -35,19 +35,22 @@
                     <!-- Events Listing -->
                     <div class="listing events-listing">
                         <header class="listing-header">
+                            <!--
                             <h3>Upcoming Events
-                                <a href="calendar.html" class="pull-right btn btn-info">View Calendar</a>
-                </h3>
-              </header>
-              <section class="listing-cont">
-                <ul>
-                  <li class="item event-item">
-                    <div class="event-date"><span class="date">05</span> <span class="month">Oct</span></div>
-                    <div class="event-detail">
-                      <h4><a href="single-event.html">GNYNF: Kyu Shinsa</a></h4>
-                      <span class="event-dayntime meta-data">Columbia University</span></div>
-                    <div class="to-event-url">
-                        <div><a href="single-event" class="btn btn-default btn-sm">Details</a></div>
+                                <a href="./calendar" class="pull-right btn btn-info">View Calendar</a>
+                            </h3>
+                            -->
+                        </header>
+                        <section class="listing-cont">
+                            <ul>
+                                <li class="item event-item">
+                                    <div class="event-date"><span class="date">05</span> <span class="month">Oct</span>
+                                    </div>
+                                    <div class="event-detail">
+                                        <h4><a href="single-event.html">GNYNF: Kyu Shinsa</a></h4>
+                                        <span class="event-dayntime meta-data">Columbia University</span></div>
+                                    <div class="to-event-url">
+                                        <div><a href="single-event" class="btn btn-default btn-sm">Details</a></div>
                     </div>
                   </li>
                   <li class="item event-item">
@@ -122,23 +125,23 @@
                         </header>
                         <section class="listing-cont">
                             <ul>
-                                <li class="item sermon featured-sermon"><span class="date">Feb 14, 2019</span>
+                                <li class="item sermon featured-sermon"><span class="date">Uploaded: Jul 22, 2019</span>
                                     <h4>Video Spotlight: </h4>
                                     <div class="featured-sermon-video">
                                         <iframe width="560" height="315" src="https://www.youtube.com/embed/CgswGo8X8nc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                     <p>WNC - ENGI - B16 (3rd place) Canada vs USA</p>
                                     <p>Part of the Naginata Israel playlist
-                          <a href="https://www.youtube.com/playlist?list=PLd5sEtT07GCBGke5LYqlP-uY_h0MaQWPq">found
-                              here.</a>
-                          Thank you!
-                      </p>
+                                        <a href="https://www.youtube.com/playlist?list=PLd5sEtT07GCBGke5LYqlP-uY_h0MaQWPq">found
+                                            here.</a>
+                                        Thank you!
+                                    </p>
                   </li>
                 </ul>
               </section>
             </div>
           </div>
-        </div>
+            </div>
         </div>
     </div>
 </div>
@@ -148,17 +151,20 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-3">
-                <h4>Updates from our gallery</h4>
-                <a href="#" class="btn btn-default btn-lg">More Galleries</a></div>
+                <h4>Highlighted Selections From the USNF Gallery</h4>
+                <a href="#" class="btn btn-default btn-lg">View More</a></div>
             <div class="col-md-3 col-sm-3 post format-image">
-                <a href="http://placehold.it/600x400&amp;text=IMAGE+PLACEHOLDER" class="media-box" data-rel="prettyPhoto[Gallery]">
-                    <img src="http://placehold.it/600x400&amp;text=IMAGE+PLACEHOLDER" alt=""> </a></div>
+                <a href="./images/galleries/Serena%20Tang%20vs%20Shannon%20Lew%202016.jpg" class="media-box" data-rel="prettyPhoto[Gallery]">
+                    <img src="./images/galleries/Serena%20Tang%20vs%20Shannon%20Lew%202016.jpg" alt="Serena Tang vs Shannon Lew 2016">
+                </a></div>
             <div class="col-md-3 col-sm-3 post format-video">
-                <a href="http://youtu.be/NEFfnbQlGo8" class="media-box" data-rel="prettyPhoto[Gallery]">
-                    <img src="http://placehold.it/600x400&amp;text=IMAGE+PLACEHOLDER" alt=""> </a></div>
+                <a href="./images/galleries/Nayantara%20and%20Sasha%20engi%202016.jpg" class="media-box" data-rel="prettyPhoto[Gallery]">
+                    <img src="./images/galleries/Nayantara%20and%20Sasha%20engi%202016.jpg" alt="Nayantara and Sasha Engi 2016">
+                </a></div>
             <div class="col-md-3 col-sm-3 post format-image">
-                <a href="http://placehold.it/600x400&amp;text=IMAGE+PLACEHOLDER" class="media-box" data-rel="prettyPhoto[Gallery]">
-                    <img src="http://placehold.it/600x400&amp;text=IMAGE+PLACEHOLDER" alt=""> </a></div>
+                <a href="./images/galleries/NCNF%20PNNF%20engi%20kyogi%202016.jpg" class="media-box" data-rel="prettyPhoto[Gallery]">
+                    <img src="./images/galleries/NCNF%20PNNF%20engi%20kyogi%202016.jpg" alt="NCNF and PNNF Engi Kyogi 2016">
+                </a></div>
         </div>
     </div>
 </div>

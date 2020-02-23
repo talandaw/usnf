@@ -30,9 +30,13 @@
     <div id="content" class="content full">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
-                    <div id='loading'>loading...</div>
+                <div class="col-md-12 text-center">
+                    <h1>Pardon our dust, an updated calendar will be uploaded & finalized soon!</h1>
+                    <img src="./images/calendar.jpg" class="img-responsive center-block">
+                    <!--
+                    <div id='loading'>Loading Calendar...</div>
                     <div id='calendar'></div>
+                    -->
                 </div>
             </div>
         </div>
