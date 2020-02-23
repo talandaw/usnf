@@ -68,7 +68,7 @@
                                 <li><a href="#">About the USNF</a>
                                     <ul class="dropdown">
                                         <li><a href="./about">What is Naginata?</a></li>
-                                        <li><a href="./about.php#board">Board of Directors</a></li>
+                                        <li><a href="./about#board">Board of Directors</a></li>
                                         <li><a href="./champions">US Champions</a></li>
                                         <li><a href="./history">USNF History</a></li>
                                     </ul>
@@ -81,7 +81,7 @@
                                                     <div class="col-md-4 hidden-sm hidden-xs">
                                                         <span class="megamenu-sub-title"><i class="fa fa-photo"></i> Featured Media</span>
                                                         <!--<iframe width="200" height="150" src="http://player.vimeo.com/video/19564018?title=0&amp;byline=0&amp;color=007F7B"></iframe>-->
-                                                        <img src="/images/usnf-participants.JPG" height="150" alt="USA Participants, 2019 Germany INF">
+                                                        <img src="./images/usnf-participants.JPG" height="150" alt="USA Participants, 2019 Germany INF">
                                                     </div>
                                                     <div class="col-md-4">
                                                         <span class="megamenu-sub-title"><i class="fa fa-map-marker"></i> Our Locations</span>
@@ -99,7 +99,7 @@
                                                                     Mountain</a></li>
                                                             <li><a href="https://www.scnf.org/" target="_blank"">Southern
                                                                 California</a></li>
-                                                            <span class="meta-data">Please note: these are external site links and open in new tabs/windows.</span>
+                                                            <span class="meta-data">Please note: These link to each Federation's external site and open in new tabs or windows.</span>
                                                         </ul>
                                                     </div>
                                                     <div class="col-md-4">
@@ -108,7 +108,7 @@
                                                             <li><a href="./federations">About Our Regional
                                                                     Federations</a><span class="meta-data">View the Map</span>
                                                             </li>
-                                                            <li><a href="./federations.php#international">View
+                                                            <li><a href="./federations#international">View
                                                                     International Federation
                                                                     Info</a><span class="meta-data">Not in the United States?</span>
                                                             </li>
