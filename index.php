@@ -18,7 +18,7 @@
             <div class="row">
                 <!-- Start Featured Blocks -->
                 <div class="featured-blocks clearfix">
-                    <div class="col-md-4 col-sm-4 featured-block"><a href="./about" class="img-thumbnail">
+                    <div class="col-md-4 col-sm-4 featured-block"><a href="./about#whatisusnf" class="img-thumbnail">
                             <img src="./images/banners/USNFBanner4.jpg" alt="What's the USNF?"> <strong>What's
                                 the USNF?</strong> <span class="more">learn more</span> </a></div>
                     <div class="col-md-4 col-sm-4 featured-block"><a href="./federations" class="img-thumbnail">
@@ -104,8 +104,8 @@
                                         </div>
                                         <div class="col-sm-9">
                                             <div class="post-title">
-                                                <h2><a href="blog-post">USNF 2020 Annual General Meeting and
-                                                        Election</a></h2>
+                                                <h2><a href="blog-post">
+                                                        USNF 2020 General Election</a></h2>
                                                 <span class="meta-data"><i class="fa fa-calendar"></i> March 14, 2020</span>
                                             </div>
                                             <p>Absentee ballots and instructions were sent out and must be
