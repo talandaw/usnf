@@ -1559,30 +1559,30 @@ html[xmlns] .slides {
 }
 .event-date .date{
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size:34px;
-	font-style:normal;
-	font-weight:700;
-	margin-bottom:0;
-	display:block;
-	margin-top:2px;
+	font-size: 1.3em;
+	font-style: normal;
+	font-weight: 700;
+	margin-bottom: 0;
+	display: block;
+	margin-top: 2px;
 }
-.event-date .month, .event-date .year{
-	font-size:12px;
-	font-weight:700;
-	letter-spacing:2px;
-	color:#999999;
-	display:block;
-	margin-top:4px;
+.event-date .month, .event-date .year {
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: .5em;
+	color: #999999;
+	display: block;
+	margin-top: 4px;
 }
 .event-date .year{
 	font-size:11px;
 	margin-top:0;
 	margin-bottom:2px;
 }
-.event-item .event-date{
-	width:6%;
-	float:left;
-	margin-right:4%;
+.event-item .event-date {
+	width: 5%;
+	float: left;
+	margin-right: 15%;
 }
 .event-item .event-detail{
 	float:left;

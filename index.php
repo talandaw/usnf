@@ -35,38 +35,59 @@
                     <!-- Events Listing -->
                     <div class="listing events-listing">
                         <header class="listing-header">
-                            <!--
-                            <h3>Upcoming Events
+                            <h3 id="upcoming-events">Upcoming Events
+                                <!--
                                 <a href="./calendar" class="pull-right btn btn-info">View Calendar</a>
+                                -->
                             </h3>
-                            -->
                         </header>
                         <section class="listing-cont">
                             <ul>
                                 <li class="item event-item">
-                                    <div class="event-date"><span class="date">05</span> <span class="month">Oct</span>
+                                    <div class="event-date">
+                                        <span class="date">14</span> <span class="month">March</span>
                                     </div>
                                     <div class="event-detail">
-                                        <h4><a href="single-event.html">GNYNF: Kyu Shinsa</a></h4>
-                                        <span class="event-dayntime meta-data">Columbia University</span></div>
+                                        <h4><a>
+                                                USNF 2020 Annual General Meeting and Election
+                                            </a></h4>
+                                        <span class="event-dayntime meta-data">
+                                            Our Annual Board Meeting will be held in New Jersey on March 14th, 2020. After the board meeting there will be a Shogo Review and testing up to Sandan offered.
+                                        </span></div>
+                                    <!--
                                     <div class="to-event-url">
                                         <div><a href="single-event" class="btn btn-default btn-sm">Details</a></div>
-                    </div>
-                  </li>
-                  <li class="item event-item">
-                    <div class="event-date"><span class="date">12</span> <span class="month">Oct</span></div>
-                    <div class="event-detail">
-                        <h4>ECNF: Fall Seminar and Taikai</h4>
-                      <span class="event-dayntime meta-data">Manassas Park Community Center</span></div>
-                  </li>
-                  <li class="item event-item">
-                    <div class="event-date"><span class="date">7</span> <span class="month">Dec</span></div>
-                    <div class="event-detail">
-                        <h4>PNNF: 4th Annual Taikai</h4>
-                        <span class="event-dayntime meta-data">Merer Island Community and Event Center</span></div>
-                  </li>
-                </ul>
-              </section>
+                                    </div>
+                                    -->
+                                </li>
+                                <li class="item event-item">
+                                    <div class="event-date">
+                                        <span class="date">23-29</span> <span class="month">March</span>
+                                    </div>
+                                    <div class="event-detail">
+                                        <h4><a>
+                                                ECNF JSS Annual Seminar and Taikai
+                                            </a></h4>
+                                        <span class="event-dayntime meta-data">
+                                            ECNF and JSS has announced their annual seminar and taikai on March 28 and 29 at Nichibukan Naginata Dojo; Jersey City, NJ.
+                                            It'll include: Saturday practice and Shinsa; Sunday Taikai.
+                                        </span></div>
+                                </li>
+                                <li class="item event-item">
+                                    <div class="event-date">
+                                        <span class="date">25-26</span> <span class="month">April</span>
+                                    </div>
+                                    <div class="event-detail">
+                                        <h4><a>
+                                                PNNF Tendo-Ryu Naginata Jutsu Seminar
+                                            </a></h4>
+                                        <span class="event-dayntime meta-data">
+                                            Pacific Northwest Naginata Federation hosting Tendo Ryu training for beginning and advanced students on
+                                            Saturday, April 25, 2020, 9:00 a.m. to 5:00 p.m. Sunday, April 26, 2020, 9:00 a.m. to 3:00 p.m.
+                                        </span></div>
+                                </li>
+                            </ul>
+                        </section>
                     </div>
                     <div class="spacer-30"></div>
                     <!-- Latest News -->
@@ -125,9 +146,9 @@
                         </header>
                         <section class="listing-cont">
                             <ul>
-                                <li class="item sermon featured-sermon"><span class="date">Uploaded: Jul 22, 2019</span>
+                                <li class="item featured-sermon"><span class="date">Uploaded: Jul 22, 2019</span>
                                     <h4>Video Spotlight: </h4>
-                                    <div class="featured-sermon-video">
+                                    <div class="format-video">
                                         <iframe width="560" height="315" src="https://www.youtube.com/embed/CgswGo8X8nc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                     <p>WNC - ENGI - B16 (3rd place) Canada vs USA</p>
@@ -136,11 +157,11 @@
                                             here.</a>
                                         Thank you!
                                     </p>
-                  </li>
-                </ul>
+                                </li>
+                            </ul>
               </section>
             </div>
-          </div>
+                </div>
             </div>
         </div>
     </div>
@@ -150,18 +171,18 @@
 <div class="featured-gallery">
     <div class="container">
         <div class="row">
-            <div class="col-md-3 col-sm-3">
+            <div class="col-sm-3 col-xs-12">
                 <h4>Highlighted Selections From the USNF Gallery</h4>
                 <a href="#" class="btn btn-default btn-lg">View More</a></div>
-            <div class="col-md-3 col-sm-3 post format-image">
+            <div class="col-sm-3 col-xs-4 post format-image">
                 <a href="./images/galleries/Serena%20Tang%20vs%20Shannon%20Lew%202016.jpg" class="media-box" data-rel="prettyPhoto[Gallery]">
                     <img src="./images/galleries/Serena%20Tang%20vs%20Shannon%20Lew%202016.jpg" alt="Serena Tang vs Shannon Lew 2016">
                 </a></div>
-            <div class="col-md-3 col-sm-3 post format-video">
+            <div class="col-sm-3 col-xs-4 post format-image">
                 <a href="./images/galleries/Nayantara%20and%20Sasha%20engi%202016.jpg" class="media-box" data-rel="prettyPhoto[Gallery]">
                     <img src="./images/galleries/Nayantara%20and%20Sasha%20engi%202016.jpg" alt="Nayantara and Sasha Engi 2016">
                 </a></div>
-            <div class="col-md-3 col-sm-3 post format-image">
+            <div class="col-sm-3 col-xs-4 post format-image">
                 <a href="./images/galleries/NCNF%20PNNF%20engi%20kyogi%202016.jpg" class="media-box" data-rel="prettyPhoto[Gallery]">
                     <img src="./images/galleries/NCNF%20PNNF%20engi%20kyogi%202016.jpg" alt="NCNF and PNNF Engi Kyogi 2016">
                 </a></div>
