@@ -1,5 +1,17 @@
+#Remove .php from file endings
 Options +MultiViews
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [NC,L]
+
+#Remove www from links, redirects to https non-www version of site
+Options +FollowSymlinks
+RewriteCond % ^www.redesign.naginata.org [NC]
+RewriteRule ^(.*)$ https://redesign.naginata.org/$1 [R=301,NC]
+
+#hide htaccess file from web
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>

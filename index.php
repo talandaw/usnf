@@ -73,19 +73,6 @@
                                             It'll include: Saturday practice and Shinsa; Sunday Taikai.
                                         </span></div>
                                 </li>
-                                <li class="item event-item">
-                                    <div class="event-date">
-                                        <span class="date">25-26</span> <span class="month">April</span>
-                                    </div>
-                                    <div class="event-detail">
-                                        <h4><a>
-                                                PNNF Tendo-Ryu Naginata Jutsu Seminar
-                                            </a></h4>
-                                        <span class="event-dayntime meta-data">
-                                            Pacific Northwest Naginata Federation hosting Tendo Ryu training for beginning and advanced students on
-                                            Saturday, April 25, 2020, 9:00 a.m. to 5:00 p.m. Sunday, April 26, 2020, 9:00 a.m. to 3:00 p.m.
-                                        </span></div>
-                                </li>
                             </ul>
                         </section>
                     </div>

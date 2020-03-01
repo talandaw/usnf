@@ -21,14 +21,14 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    
+
     <link href="./css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="./plugins/mediaelement/mediaelementplayer.css" rel="stylesheet" type="text/css">
-    <link href="./css/style.css" rel="stylesheet" type="text/css">
+    <link href="./css/style.css?ver=1.0" rel="stylesheet" type="text/css">
     <link href="./plugins/prettyphoto/css/prettyPhoto.css" rel="stylesheet" type="text/css">
     <!--[if lte IE 8]>
     <link rel="stylesheet" type="text/css" href="./css/ie8.css" media="screen"/><![endif]-->
-    <link href="./css/custom.css" rel="stylesheet" type="text/css">
+    <link href="./css/custom.css?ver=1.0" rel="stylesheet" type="text/css">
     <!-- SCRIPTS
       ================================================== -->
     <script src="js/modernizr.js"></script><!-- Modernizr -->
