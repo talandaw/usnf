@@ -264,8 +264,26 @@
                 googleCalendarApiKey: 'AIzaSyAxDhc-w_kLGsqT2tFDbXUPvLgK_UTy36s',
 
                 // USNF Events Calendar
-                events: 'fm06kljukhiupdtmbqmidlfsgg@group.calendar.google.com',
-
+                events: {
+                    googleCalendarId: 'fm06kljukhiupdtmbqmidlfsgg@group.calendar.google.com',
+                    className: 'google-calendar' // an option!
+                },
+                eventRender: function (eventObj, $el) {
+                    $el.popover({
+                        title: eventObj.title,
+                        content: eventObj.description + '<br> Location:' + eventObj.location,
+                        trigger: 'hover click',
+                        placement: 'auto',
+                        container: 'body',
+                        html: true
+                    });
+                },
+                eventClick: function (event) {
+                    if (event.url) {
+                        //don't open to google calendar;
+                        return false;
+                    }
+                },
                 loading: function (bool) {
                     $('#loading').toggle(bool);
                 }

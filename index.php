@@ -36,9 +36,8 @@
                     <div class="listing events-listing">
                         <header class="listing-header">
                             <h3 id="upcoming-events">Upcoming Events
-                                <!--
+
                                 <a href="./calendar" class="pull-right btn btn-info">View Calendar</a>
-                                -->
                             </h3>
                         </header>
                         <section class="listing-cont">
