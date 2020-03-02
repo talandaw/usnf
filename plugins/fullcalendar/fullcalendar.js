@@ -186,15 +186,16 @@ only include the helpers we need, to keep down filesize
                 }
 
                 exports.compensateScroll = compensateScroll;
+
 // Undoes compensateScroll and restores all borders/margins
-function uncompensateScroll(rowEls) {
-    rowEls.css({
-        'margin-left': '',
-        'margin-right': '',
-        'border-left-width': '',
-        'border-right-width': ''
-    });
-}
+                function uncompensateScroll(rowEls) {
+                    rowEls.css({
+                        'margin-left': '',
+                        'margin-right': '',
+                        'border-left-width': '',
+                        'border-right-width': ''
+                    });
+                }
 
                 exports.uncompensateScroll = uncompensateScroll;
 // Make the mouse cursor express that an event is not allowed in the current area
@@ -2571,7 +2572,6 @@ options:
                     }
                     return false;
                 }
-
 // Returns true if all of subHit's non-standard properties are within superHit
                 function isHitPropsWithin(subHit, superHit) {
                     for (var propName in subHit) {
