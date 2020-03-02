@@ -242,20 +242,17 @@
     <script>
 
         $(document).ready(function () {
-
             $('#calendar').fullCalendar({
-                //header: { center: 'month,agendaWeek,agendaDay' },
-
                 // buttons for switching between views
                 header: {
-                    left: 'month,agendaWeek custom',
+                    left: 'month,agendaWeek,listYear custom',
                     center: 'title',
                     right: 'today prev,next'
                 },
 
                 customButtons: {
                     custom: {
-                        text: 'Print',
+                        text: 'print',
                         click: function () {
                             window.print();
                         }
@@ -269,21 +266,15 @@
                 // USNF Events Calendar
                 events: 'fm06kljukhiupdtmbqmidlfsgg@group.calendar.google.com',
 
-                eventClick: function (event) {
-                    // opens events in a popup window
-                    window.open(event.url, 'gcalevent', 'width=700,height=600');
-                    return false;
-                },
-
                 loading: function (bool) {
                     $('#loading').toggle(bool);
-            }
+                }
+
+            });
 
         });
 
-    });
-
-</script>
+    </script>
 </body>
 </html>
 

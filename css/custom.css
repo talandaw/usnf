@@ -32,12 +32,24 @@
 }
 
 /* ==================================================
-   Color Scheme Specific Classes
+  Print Related Refinements
 ================================================== */
+
 @page {
     size: auto;
     margin: 0mm;
 }
+
+/* Don't print link hrefs */
+@media print {
+    a[href]:after {
+        content: none
+    }
+}
+
+/* ==================================================
+   Color Scheme Specific Classes
+================================================== */
 
 .text-primary, .text-primary:hover, .btn-primary .badge, .btn-link, a.list-group-item.active > .badge, .nav-pills > .active > a > .badge, p.drop-caps:first-child:first-letter, .accent-color, .events-listing .event-detail h4 a, .featured-sermon h4 a, .page-header h1, .post-more, ul.nav-list-primary > li a:hover, .widget_recent_comments a, .navigation .megamenu-container .megamenu-sub-title, .cause-item .progress-label, .payment-to-cause a, .products-list li .product-price, .products-list li .product-details h3 a:hover {
     color: #653a71;
