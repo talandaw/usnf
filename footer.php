@@ -1,5 +1,5 @@
 <!-- Start Footer -->
-<footer class="site-footer">
+<footer class="site-footer hidden-print">
     <div class="container">
         <div class="row">
             <!-- Start Footer Widgets -->
@@ -31,7 +31,7 @@
         </div>
     </div>
 </footer>
-<footer class="site-footer-bottom">
+<footer class="site-footer-bottom hidden-print">
     <div class="container">
         <div class="row">
             <div class="copyrights-col-left col-md-6 col-sm-6">
@@ -49,4 +49,4 @@
     </div>
 </footer>
 <!-- End Footer -->
-<a id="back-to-top"><i class="fa fa-angle-double-up"></i></a>
+<a id="back-to-top"><i class="fa fa-angle-double-up hidden-print"></i></a>

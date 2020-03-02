@@ -31,10 +31,14 @@
     z-index: 101;
 }
 
-
 /* ==================================================
    Color Scheme Specific Classes
 ================================================== */
+@page {
+    size: auto;
+    margin: 0mm;
+}
+
 .text-primary, .text-primary:hover, .btn-primary .badge, .btn-link, a.list-group-item.active > .badge, .nav-pills > .active > a > .badge, p.drop-caps:first-child:first-letter, .accent-color, .events-listing .event-detail h4 a, .featured-sermon h4 a, .page-header h1, .post-more, ul.nav-list-primary > li a:hover, .widget_recent_comments a, .navigation .megamenu-container .megamenu-sub-title, .cause-item .progress-label, .payment-to-cause a, .products-list li .product-price, .products-list li .product-details h3 a:hover {
     color: #653a71;
 }
@@ -42,8 +46,9 @@
 a:hover {
     color: #653a71;
 }
-.events-listing .event-detail h4 a:hover, .featured-sermon h4 a:hover, .featured-gallery p, .post-more:hover, .widget_recent_comments a:hover{
-    opacity:.9
+
+.events-listing .event-detail h4 a:hover, .featured-sermon h4 a:hover, .featured-gallery p, .post-more:hover, .widget_recent_comments a:hover {
+    opacity: .9
 }
 p.drop-caps.secondary:first-child:first-letter, .accent-bg, .fa.accent-color, .btn-primary,
 .btn-primary.disabled,

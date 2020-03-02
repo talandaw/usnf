@@ -42,7 +42,7 @@
 <![endif]-->
 <div class="body">
     <!-- Start Site Header -->
-    <header class="site-header">
+    <header class="site-header hidden-print">
         <div class="topbar">
             <div class="container">
                 <div class="row">
@@ -177,7 +177,7 @@
     </header>
     <!-- End Site Header -->
     <!-- Start Nav Backed Header -->
-    <div class="nav-backed-header parallax">
+    <div class="nav-backed-header parallax hidden-print">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -186,20 +186,26 @@
                         <li class="active">Calendar</li>
                     </ol>
                 </div>
-        </div>
-    </div>
-</div>
-<!-- End Nav Backed Header -->
-<!-- Start Page Header -->
-<div class="page-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h1><i class="fa fa-google-plus pull-right"></i>Calendar of Events</h1>
             </div>
         </div>
     </div>
-</div>
+    <!-- End Nav Backed Header -->
+    <!-- Start Page Header -->
+    <div class="page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="hidden-print"><i class="fa fa-google-plus pull-right"></i>Calendar of Events</h1>
+                    <div class="visible-print">
+                    <span class="row">
+                        <img src="./images/usnf-mon.png" alt="USNF Logo" width="70px">
+                        <span class="h3">United States Naginata Federation Calendar of Events</span>
+                    </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- End Page Header -->
     <!-- Start Content -->
     <div class="main" role="main">
@@ -242,16 +248,16 @@
 
                 // buttons for switching between views
                 header: {
-                    left: 'month,agendaWeek,listWeek',
+                    left: 'month,agendaWeek custom',
                     center: 'title',
-                    right: 'custom today prevYear,prev,next,nextYear'
+                    right: 'today prev,next'
                 },
 
                 customButtons: {
                     custom: {
-                        text: 'custom',
+                        text: 'Print',
                         click: function () {
-                            alert('clicked custom button!');
+                            window.print();
                         }
                     }
                 },
