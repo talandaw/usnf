@@ -1,7 +1,7 @@
 /*!
- * FullCalendar v2.2.1 Print Stylesheet
- * Docs & License: http://arshaw.com/fullcalendar/
- * (c) 2013 Adam Shaw
+ * <%= meta.title %> v<%= meta.version %> Print Stylesheet
+ * Docs & License: <%= meta.homepage %>
+ * (c) <%= meta.copyright %>
  */
 
 /*
@@ -38,16 +38,22 @@ hr,
 thead,
 tbody,
 .fc-row {
-	border-color: #ccc !important;
-	background: #fff !important;
+    border-color: #cccccc !important;
+    background: #ffffff !important;
 }
 
-/* kill the overlaid, absolutely-positioned common components */
+/* kill the overlaid, absolutely-positioned components */
+/* common... */
 .fc-bg,
 .fc-bgevent-skeleton,
 .fc-highlight-skeleton,
-.fc-helper-skeleton {
-	display: none;
+.fc-helper-skeleton,
+    /* for timegrid. within cells within table skeletons... */
+.fc-bgevent-container,
+.fc-business-container,
+.fc-highlight-container,
+.fc-helper-container {
+    display: none;
 }
 
 /* don't force a min-height on rows (for DayGrid) */
