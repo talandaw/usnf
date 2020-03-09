@@ -51,7 +51,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <textarea cols="6" rows="7" id="comments" name="comments" class="form-control input-lg" placeholder="Message" required></textarea>
+                                        <textarea cols="6" rows="7" id="comments" name="comments" class="form-control input-lg" placeholder="Message*" required></textarea>
                                     </div>
                                 </div>
                                 <div class="col-md-12">

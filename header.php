@@ -21,7 +21,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-
+    
     <link href="./css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="./plugins/mediaelement/mediaelementplayer.css" rel="stylesheet" type="text/css">
     <link href="./css/style.css?ver=1.0" rel="stylesheet" type="text/css">
@@ -32,6 +32,18 @@
     <!-- SCRIPTS
       ================================================== -->
     <script src="js/modernizr.js"></script><!-- Modernizr -->
+    
+    <script>
+        Userback = window.Userback || {};
+        Userback.access_token = '4819|14939|CPSF4894BaDxPw2WTv531jnQdQHVUYpZTRK4CKm3fA2s9MmBwt';
+        (function (id) {
+            var s = document.createElement('script');
+            s.async = 1;
+            s.src = 'https://static.userback.io/widget/v1.js';
+            var parent_node = document.head || document.body;
+            parent_node.appendChild(s);
+        })('userback-sdk');
+    </script>
 </head>
 <body>
 <!--[if lt IE 7]>

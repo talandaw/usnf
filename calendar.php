@@ -34,6 +34,17 @@
     <!-- SCRIPTS
       ================================================== -->
     <script src="js/modernizr.js"></script><!-- Modernizr -->
+    <script>
+        Userback = window.Userback || {};
+        Userback.access_token = '4819|14939|CPSF4894BaDxPw2WTv531jnQdQHVUYpZTRK4CKm3fA2s9MmBwt';
+        (function (id) {
+            var s = document.createElement('script');
+            s.async = 1;
+            s.src = 'https://static.userback.io/widget/v1.js';
+            var parent_node = document.head || document.body;
+            parent_node.appendChild(s);
+        })('userback-sdk');
+    </script>
 </head>
 <body>
 <!--[if lt IE 7]>
