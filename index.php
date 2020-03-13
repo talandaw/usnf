@@ -18,7 +18,7 @@
             <div class="row">
                 <!-- Start Featured Blocks -->
                 <div class="featured-blocks clearfix">
-                    <div class="col-md-4 col-sm-4 featured-block"><a href="./about#whatisusnf" class="img-thumbnail">
+                    <div class="col-md-4 col-sm-4 featured-block"><a href="./about" class="img-thumbnail">
                             <img src="./images/banners/USNFBanner4.jpg" alt="What's the USNF?"> <strong>What's
                                 the USNF?</strong> <span class="more">learn more</span> </a></div>
                     <div class="col-md-4 col-sm-4 featured-block"><a href="./federations" class="img-thumbnail">

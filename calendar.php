@@ -106,7 +106,7 @@
                                                         <ul class="sub-menu">
                                                             <li><a href="http://www.ecnf.net/" target="_blank">East
                                                                     Coast</a></li>
-                                                            <li><a href="http://www.gnynf.org/" target="_blank">Greater
+                                                            <li><a href="https://www.facebook.com/GNYNF/" target="_blank">Greater
                                                                     New York</a></li>
                                                             <li><a href="https://ncnf.tidyhq.com/" target="_blank">Northern
                                                                     California</a></li>

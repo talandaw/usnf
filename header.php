@@ -29,10 +29,12 @@
     <!--[if lte IE 8]>
     <link rel="stylesheet" type="text/css" href="./css/ie8.css" media="screen"/><![endif]-->
     <link href="./css/custom.css?ver=1.0" rel="stylesheet" type="text/css">
+
     <!-- SCRIPTS
       ================================================== -->
     <script src="js/modernizr.js"></script><!-- Modernizr -->
-    
+    <script src="https://kit.fontawesome.com/b321ba2714.js" crossorigin="anonymous"></script>
+
     <script>
         Userback = window.Userback || {};
         Userback.access_token = '4819|14939|CPSF4894BaDxPw2WTv531jnQdQHVUYpZTRK4CKm3fA2s9MmBwt';
@@ -105,7 +107,7 @@
                                                         <ul class="sub-menu">
                                                             <li><a href="http://www.ecnf.net/" target="_blank">East
                                                                     Coast</a></li>
-                                                            <li><a href="http://www.gnynf.org/" target="_blank">Greater
+                                                            <li><a href="https://www.facebook.com/GNYNF/" target="_blank">Greater
                                                                     New York</a></li>
                                                             <li><a href="https://ncnf.tidyhq.com/" target="_blank">Northern
                                                                     California</a></li>
