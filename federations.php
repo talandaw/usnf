@@ -41,14 +41,78 @@
             </p>
             <div class="row">
                 <div class="col-md-9 posts-archive causes-archive">
-
                     <article class="post cause-item">
                         <div class="row">
                             <div class="col-xs-3">
-                                <img src="./images/ECNFnobori.jpg" alt="" class="img-thumbnail">
+                                <img src="./images/banners/ECNFnobori.jpg" alt="ECNF Nobori" class="img-thumbnail">
                             </div>
                             <div class="col-xs-9">
                                 <h3 class="text-primary">East Coast Naginata Federation</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas
+                                    rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris
+                                    quam...</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="post cause-item">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <img src="./images/banners/GNYnobori.jpg" alt="GNY Nobori" class="img-thumbnail">
+                            </div>
+                            <div class="col-xs-9">
+                                <h3 class="text-primary">Greater New York Naginata Federation</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas
+                                    rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris
+                                    quam...</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="post cause-item">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <img src="./images/banners/NCNFnobori.jpg" alt="NCNF Nobori" class="img-thumbnail">
+                            </div>
+                            <div class="col-xs-9">
+                                <h3 class="text-primary">Northern California Naginata Federation</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas
+                                    rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris
+                                    quam...</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="post cause-item">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <img src="./images/banners/PNNFnobori.jpg" alt="PNNF Nobori" class="img-thumbnail">
+                            </div>
+                            <div class="col-xs-9">
+                                <h3 class="text-primary">Pacific Northwest Naginata Federation</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas
+                                    rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris
+                                    quam...</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="post cause-item">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <img src="./images/banners/RMNFnobori.jpg" alt="RMNF Nobori" class="img-thumbnail">
+                            </div>
+                            <div class="col-xs-9">
+                                <h3 class="text-primary">Rocky Mountain Naginata Federation</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas
+                                    rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris
+                                    quam...</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="post cause-item">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <img src="./images/banners/SCNFnobori.jpg" alt="SCNF Nobori" class="img-thumbnail">
+                            </div>
+                            <div class="col-xs-9">
+                                <h3 class="text-primary">Southern California Naginata Federation</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas
                                     rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris
                                     quam...</p>
