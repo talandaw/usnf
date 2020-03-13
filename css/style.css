@@ -1,4 +1,5 @@
 /* Stylesheets and Google fonts import */
+/* Stylesheets and Google fonts import */
 @import url("font-awesome.css");
 @import url("animations.css");
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
@@ -30,7 +31,7 @@ body {
 	line-height: 1;
 }
 
-ol, ul {
+ul li{
 	list-style: none;
 }
 blockquote, q {

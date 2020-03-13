@@ -124,11 +124,12 @@
                             </div>
                             <div class="col-xs-9">
                                 <h3 class="text-primary">Rocky Mountain Naginata Federation</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas
-                                    rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris
-                                    quam...</p>
+                                <p>RMNF is a group of Naginata practitioners. We want to share the history and mentality about this beautiful Japanese Martial Art. </p>
                                 <p>
                                     <a href="./rmnf-gallery" class="btn btn-primary">View Gallery <i class="fas fa-photo-video"></i></a>
+                                </p>
+                                <p>
+                                    <a href="https://www.facebook.com/midsouthnaginata" target="_blank"><i class="fab fa-facebook-square fa-2x text-info"></i></a>
                                 </p>
                             </div>
                         </div>

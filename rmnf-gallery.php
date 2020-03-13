@@ -6,7 +6,7 @@
             <div class="col-md-12">
                 <ol class="breadcrumb">
                     <li><a href="./">Home</a></li>
-                    <li class="active">ECNF Gallery</li>
+                    <li class="active">RMNF Gallery</li>
                 </ol>
             </div>
         </div>
@@ -18,7 +18,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h1>ECNF Gallery</h1>
+                <h1>RMNF Gallery</h1>
             </div>
             <div class="col-md-6">
                 <div class="gallery-filter">
