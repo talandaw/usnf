@@ -146,7 +146,7 @@
                                                 <li><a href="ecnf-gallery">East Coast</a></li>
                                                 <li><a href="gnynf-gallery">Greater New York</a></li>
                                                 <li><a href="ncnf-gallery">Northern California</a></li>
-                                                <li><a href="pcnf-gallery">Pacific Northwest</a></li>
+                                                <li><a href="pnnf-gallery">Pacific Northwest</a></li>
                                                 <li><a href="rmnf-gallery">Rocky Mountain</a></li>
                                                 <li><a href="scnf-gallery">Southern California</a></li>
                                             </ul>
