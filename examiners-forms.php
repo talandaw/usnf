@@ -68,11 +68,11 @@
                 <div class="col-sm-6">
                     <br>
                     <h3 class="text-primary">Application Forms</h3>
-                    <a href="./files/dan-kyu-exam-application.pdf" class="btn btn-primary" download>Fillable Form - Dan
+                    <a href="./files/dan-kyu-exam-application.pdf" class="btn btn-success" download>Fillable Form - Dan
                         & Kyu Exam
                         <i class="fas fa-download"></i>
                     </a><br><br>
-                    <a href="./files/kyu-exam-certification.pdf" class="btn btn-info" download>Fillable Form - Kyu
+                    <a href="./files/kyu-exam-certification.pdf" class="btn btn-warningc" download>Fillable Form - Kyu
                         Examination Results
                         <i class="fas fa-download"></i>
                     </a>

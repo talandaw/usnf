@@ -47,7 +47,7 @@
                     <a href="./files/individual-shai.pdf" class="btn btn-info" download>Download PDF - Individual Match
                         <i class="fas fa-download"></i>
                     </a><br><br>
-                    <a href="./files/team-match.pdf" class="btn btn-success" download>Download PDF - Team Match
+                    <a href="./files/team-match.pdf" class="btn btn-warning" download>Download PDF - Team Match
                         <i class="fas fa-download"></i>
                     </a>
                 </div>
