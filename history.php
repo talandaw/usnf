@@ -65,6 +65,241 @@
                         </div>
                     </div>
                 </li>
+                <li>
+                    <div class="timeline-badge">Year of 1973</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">First Naginata Seminar</h4>
+                        </div>
+                        <div class="timeline-body">
+                            First Naginata seminar in the United States conducted by 11 instructors from the All Japan
+                            Naginata Federation (AJNF), held in conjunction with the 2nd World Kendo Championships in
+                            Los Angeles and San Francisco. AJNF and USA participate in a Naginata demonstration at
+                            the Los Angeles Sports Arena and San Jose State University Men's Gym.
+                        </div>
+                    </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-badge">Year of 1974</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">USNF Formed</h4>
+                        </div>
+                        <div class="timeline-body">
+                            The United States Naginata Federation (USNF) is formed through the efforts of the
+                            instructors and members of the Southern California Naginata Federation, and with
+                            encouragement of the AJNF. Mrs. Teiko Mori becomes the first USNF president.
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-badge">Year of 1975</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">AJNF Sends Instructors</h4>
+                        </div>
+                        <div class="timeline-body">
+                            AJNF sends three instructors (Kuniko Sunagawa, Miyako Tanaka, Ryuko Nagahashi) to teach in
+                            L.A. and San Jose.
+                        </div>
+                    </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">AJNF 20th Anniversary</h4>
+                        </div>
+                        <div class="timeline-body">
+                            AJNF 20th Anniversary Tournament in Kobe Japan. USNF instructors (Helen Nakano, Yasuko
+                            Yamaguchi, Violet Yamaguchi) compete in Shiai and Engi.
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-badge">Year of 1980</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">AJNF 25th Anniversary</h4>
+                        </div>
+                        <div class="timeline-body">
+                            The AJNF 25th Anniversary Tournament in Kumamoto, Japan. USNF presidents, past and present,
+                            (Teiko Mori, Yasuko Yamaguchi, and Helen Nakano) attend by invitation.
+                        </div>
+                    </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-badge">Year of 1987</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">USNF Seminar</h4>
+                        </div>
+                        <div class="timeline-body">
+                            USNF Naginata Seminar in Gardena hosts AJNF instructors.
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-badge">Year of 1989</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">RMNF joins USNF</h4>
+                        </div>
+                        <div class="timeline-body">
+                            Rocky Mountain Naginata Federation joins USNF.
+                        </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-badge">Year of 1990</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">INF Established</h4>
+                        </div>
+                        <div class="timeline-body">
+                            The International Naginata Federation (INF) established with seven (7) Affiliates: Japan,
+                            USA, France, Belgium, New Zealand, Sweden, and The Netherlands. Mrs. Dorothy Ishiyasu is
+                            elected INF Vice President and Mrs. Helen Nakano is elected INF Director of the Americas.
+                        </div>
+                </li>
+                <li>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">First INF Goodwill Tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            First INF Goodwill Tournament held in Tokyo Japan on 9 December. The US takes third place in
+                            the team match.
+                        </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-badge">Year of 1991</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">NCNF joins USNF</h4>
+                        </div>
+                        <div class="timeline-body">
+                            Northern California Naginata Federation joins the USNF. Shortly thereafter, members from the
+                            Midwest and East Coast of the US also join the USNF.
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-badge">Year of 1992</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">3rd INF Goodwill Tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            3nd INF Goodwill tournament is held in Paris, France.
+                        </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">1st Annual USNF tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            First Annual USNF Tournament is held in San Jose, California.
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-badge">Year of 1993</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">2nd Annual USNF tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            2nd Annual USNF Tournament is held in Denver, Colorado.
+                        </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-badge">Year of 1994</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">3rd Annual USNF tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            3rd Annual USNF 20th Anniversary Tournament held in Lincoln, Nebraska.
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-badge">Year of 1995</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">1st International tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            The First International Naginata Tournament held in Tokyo, Japan.
+                        </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-badge">Year of 1996</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">4th Annual USNF tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            4th Annual USNF Tournament held in San Jose, CA.
+                        </div>
+                </li>
+                <li>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">4th INF Goodwill Tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            4th INF Goodwill Tournament held in Sao Paulo, Brazil. The US takes third place in the team
+                            match.
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-badge">Year of 1998</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">5th Annual USNF tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            5th Annual USNF Tournament held in Ogden, UT.
+                        </div>
+                </li>
+                <li>
+                    <div class="timeline-badge">Year of 2000</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">6th Annual USNF tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            5th Annual USNF Tournament held in Honolulu, HI.
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-badge">Year of 2002</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">7th Annual USNF tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            7th Annual USNF Tournament held in Bryn Mawr, PA.
+                        </div>
+                </li>
+                <li>
+                    <div class="timeline-badge">Year of 2004</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">8th Annual USNF tournament</h4>
+                        </div>
+                        <div class="timeline-body">
+                            8th Annual USNF Tournament held in Bryn Mawr, PA.
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-badge">TBD</div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 class="timeline-title">Remaining Items Pending</h4>
+                        </div>
+                        <div class="timeline-body">
+                            Check back soon for the remaining details of the USNF history!
+                        </div>
+                </li>
             </ul>
         </div>
     </div>
