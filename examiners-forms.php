@@ -72,12 +72,30 @@
                         & Kyu Exam
                         <i class="fas fa-download"></i>
                     </a><br><br>
-                    <a href="./files/kyu-exam-certification.pdf" class="btn btn-warningc" download>Fillable Form - Kyu
+                    <a href="./files/kyu-exam-certification.pdf" class="btn btn-warning" download>Fillable Form - Kyu
                         Examination Results
                         <i class="fas fa-download"></i>
                     </a>
                 </div>
             </div>
+            <hr>
+            <div class="alert alert-warning fade in">
+                Your browser may automatically request to download the files. If your browser supports Adobe
+                PDFs, you may also preview the form below.
+                <br><strong>Important Note:</strong> If you fill out the pdf directly, you must 'print' it to
+                save your work, even if you simply use
+                'save as pdf' afterward. Filling out this form and then clicking the save button is not
+                supported.
+            </div>
+            <embed src="./files/kyu-examiner.pdf" type="application/pdf"/>
+            <br><br>
+            <embed src="./files/dan-examiner.pdf" type="application/pdf"/>
+            <br><br>
+            <embed src="./files/dan-kyu-exam-application.pdf" type="application/pdf"/>
+            <br><br>
+            <embed src="./files/kyu-exam-certification.pdf" type="application/pdf"/>
+            <br><br>
+
         </div>
     </div>
 </div>

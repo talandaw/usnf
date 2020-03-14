@@ -40,7 +40,7 @@
             <br><br>
             <div class="row">
                 <div class="col-sm-12">
-                    <h3 class="text-primary">Forms</h3>
+                    <h3 class="text-primary">Recording Forms</h3>
                     <a href="./files/engi-match.pdf" class="btn btn-primary" download>Download PDF - Engi Match
                         <i class="fas fa-download"></i>
                     </a><br><br>
@@ -50,6 +50,21 @@
                     <a href="./files/team-match.pdf" class="btn btn-warning" download>Download PDF - Team Match
                         <i class="fas fa-download"></i>
                     </a>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-sm-12">
+            
+                    <div class="alert alert-warning fade in"><a class="close" data-dismiss="alert" href="#">&times;</a>
+                        Your browser may automatically request to download the file. If your browser supports Adobe
+                        PDFs, you may also preview the form below.
+                    </div>
+                    <embed src="./files/engi-match.pdf" type="application/pdf"/>
+                    <br><br>
+                    <embed src="./files/individual-shai.pdf" type="application/pdf"/>
+                    <br><br>
+                    <embed src="./files/team-match.pdf" type="application/pdf"/>
                 </div>
             </div>
         </div>

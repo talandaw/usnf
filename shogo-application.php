@@ -90,7 +90,6 @@
                     </a>
                 </div>
             </div>
-            
             <hr>
             <div class="row">
                 <div class="col-sm-12">
@@ -98,10 +97,6 @@
                     <div class="alert alert-warning fade in"><a class="close" data-dismiss="alert" href="#">&times;</a>
                         Your browser may automatically request to download the file. If your browser supports Adobe
                         PDFs, you may also preview the form below.
-                        <br><strong>Important Note:</strong> If you fill out the pdf directly, you must 'print' it to
-                        save your work, even if you simply use
-                        'save as pdf' afterward. Filling out this form and then clicking the save button is not
-                        supported.
                     </div>
                     <embed src="./files/Renshi-application-English.pdf" type="application/pdf"/>
                     <br>
