@@ -163,18 +163,8 @@
                                         <li><a href="testing-paperwork">Dan & Kyu Testing Paperwork</a></li>
                                         <li><a href="ranking-referee">Ranking & Referee Regulations</a></li>
                                         <li><a href="shogo-application">Shogo Application</a></li>
-                                        <li><a href="examiners-forms">Examiner's Forms</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">Ranking</a></li>
-                                                <li><a href="#">Referee</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="tournament-forms">Tournament Forms</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">Ranking</a></li>
-                                                <li><a href="#">Referee</a></li>
-                                            </ul>
-                                        </li>
+                                        <li><a href="examiners-forms">Examiner's Forms</a></li>
+                                        <li><a href="tournament-forms">Tournament Forms</a></li>
                                         <li><a href="expense-report">Expense Report</a></li>
                                         <li><a href="bylaws">By-laws</a></li>
                                     </ul>
