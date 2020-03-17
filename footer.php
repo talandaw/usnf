@@ -10,19 +10,19 @@
                     physical
                     beauty of choreographed, practiced movements, called kata.</p>
             </div>
-            <div class="col-md-6 col-sm-6 widget footer-widget">
+            <div class="col-md-6 col-xs-12 widget footer-widget">
                 <h4 class="footer-widget-title">Quick Links</h4>
-                <div class="col-md-6">
+                <div class="col-md-6 col-xs-12">
                     <ul>
                         <li><a href="./">Home</a></li>
                         <li><a href="./about">About the USNF</a></li>
                         <li><a href="./federations">Regional Federations</a></li>
                     </ul>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 col-xs-12">
                     <ul>
                         <li><a href="./calendar">Calendar of Events</a></li>
-                        <li><a href="#" data-placement="left" data-toggle="tooltip" data-original-title="Coming Soon!">Members
+                        <li><a href="#" data-placement="right" data-toggle="tooltip" data-original-title="Coming Soon!">Members
                                 Dashboard</a></li>
                         <li><a href="./contact">Contact Us</a></li>
                     </ul>
@@ -39,10 +39,13 @@
             </div>
             <div class="copyrights-col-right col-md-6 col-sm-6">
                 <div class="social-icons row">
-                    Connect with USNF & the Naginata Community:
-                    <a href="https://www.facebook.com/United-States-Naginata-Federation-925385317560651" target="_blank"><i class="fa fa-facebook"></i></a>
-                    <a href="https://twitter.com/hashtag/naginata?lang=en" target="_blank"><i class="fa fa-twitter"></i></a>
-                    <a href="https://www.youtube.com/results?search_query=naginata+usnf" target="_blank"><i class="fa fa-youtube"></i></a>
+                    Connect with USNF & Naginata:
+                    <a href="https://www.facebook.com/United-States-Naginata-Federation-925385317560651"
+                       target="_blank"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://twitter.com/hashtag/naginata?lang=en" target="_blank"><i
+                                class="fab fa-twitter"></i></a>
+                    <a href="https://www.youtube.com/results?search_query=naginata+usnf" target="_blank"><i
+                                class="fab fa-youtube"></i></a>
                 </div>
             </div>
         </div>

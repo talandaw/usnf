@@ -59,9 +59,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-8">
-                        <h1 class="logo"><a href="./">
-                                <img src="./images/usnf-mon.png" alt="USNF Logo" class="img-responsive" width="70px"></a>
-                            | United States Naginata Federation
+                        <h1 class="logo hidden-xs"><a href="./">
+                                <img src="./images/usnf-logo.png" alt="USNF Logo" height="65px"></a>
+                        </h1>
+                        <h1 class="sm-logo visible-xs"><a href="./">
+                                <img src="./images/mobile-logo.png" alt="USNF Logo" height="50px"></a>
                         </h1>
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-4">
@@ -69,7 +71,9 @@
                             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                                 <input type="hidden" name="cmd" value="_s-xclick"/>
                                 <input type="hidden" name="hosted_button_id" value="BR3V8P2P22TWE"/>
-                                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"/>
+                                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+                                       name="submit" title="PayPal - The safer, easier way to pay online!"
+                                       alt="Donate with PayPal button"/>
                                 <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1"/>
                             </form>
                         </ul>
@@ -138,10 +142,10 @@
                                         </li>
                                     </ul>
                                 </li>
-                                
+
                                 <li><a href="#">Gallery</a>
                                     <ul class="dropdown">
-                                        <li><a href="./us-gallery.php">USNF Events</a></li>
+                                        <li><a href="./us-gallery">USNF Events</a></li>
                                         <li><a href="#">Regional Galleries</a>
                                             <ul class="dropdown">
                                                 <li><a href="ecnf-gallery">East Coast</a></li>

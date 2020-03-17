@@ -1,7 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:500&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
 
-.site-header h1.logo{
+@font-face {
+    font-family: 'Univers Light Condensed';
+    src: url('/webfonts/UniversLightCondensed-Regular.woff2') format('woff2'),
+    url('/webfonts/UniversLightCondensed-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+.site-header h1.logo {
     padding: 0;
     font-family: 'Merriweather', serif;
     font-variant: small-caps;
@@ -9,26 +17,43 @@
     letter-spacing: 1px;
 }
 
-.site-header .topbar{
+.site-header .topbar {
     height:75px;
 }
 
-.top-navigation{
+.top-navigation {
     padding: 15px 0 0 10px;
 }
-.logo a{
-    display:inline-table;
+
+.sm-logo img {
+    padding-top: 5%;
+    padding-left: 10%;
+    vertical-align: top !important;
+    display: inline-table;
     text-align: center;
     font-family: "Times New Roman", serif;
+}
+
+.logo img {
+    vertical-align: bottom !important;
+    display: inline-table;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    padding-top: 5px;
 }
 
 .site-footer {
     padding-bottom: 0;
 }
 
+footer .widget ul > li:first-child {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .tinted-image {
-    background: linear-gradient(250deg, rgba(101, 58, 113, .9), rgba(255, 0, 0, 0) 80.00%);
-    z-index: 101;
+    background: linear-gradient(250deg, rgba(95, 33, 103, .9), rgba(255, 0, 0, 0) 80.00%);
+    z-index: 4;
 }
 
 /* ==================================================
@@ -52,11 +77,11 @@
 ================================================== */
 
 .text-primary, .text-primary:hover, .btn-primary .badge, .btn-link, a.list-group-item.active > .badge, .nav-pills > .active > a > .badge, p.drop-caps:first-child:first-letter, .accent-color, .events-listing .event-detail h4 a, .featured-sermon h4 a, .page-header h1, .post-more, ul.nav-list-primary > li a:hover, .widget_recent_comments a, .navigation .megamenu-container .megamenu-sub-title, .cause-item .progress-label, .payment-to-cause a, .products-list li .product-price, .products-list li .product-details h3 a:hover {
-    color: #653a71;
+    color: #5F2167;
 }
 
 a:hover {
-    color: #653a71;
+    color: #5F2167;
 }
 
 .events-listing .event-detail h4 a:hover, .featured-sermon h4 a:hover, .featured-gallery p, .post-more:hover, .widget_recent_comments a:hover {
@@ -95,19 +120,19 @@ fieldset[disabled] .btn-primary.active,
 a.list-group-item.active,
 a.list-group-item.active:hover,
 a.list-group-item.active:focus,
-.panel-primary > .panel-heading, .carousel-indicators .active, .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span, hr.sm, .flex-control-nav a:hover, .flex-control-nav a.flex-active, .title-note, .timer-col #days, .featured-block strong, .featured-gallery, .nav-backed-header, .next-prev-nav a, .event-description .panel-heading, .media-box .media-box-wrapper, .staff-item .social-icons a, .accordion-heading .accordion-toggle.active, .accordion-heading:hover .accordion-toggle, .accordion-heading:hover .accordion-toggle.inactive, .nav-tabs li a:hover, .nav-tabs li a:active, .nav-tabs li.active a, .fc-event, .timeline > li > .timeline-badge, .header-style3 .toprow, .featured-star, .featured-event-time, .goingon-events-floater-inner, .products-list .product-image .add-to-cart{
-    background-color: #653a71;
+.panel-primary > .panel-heading, .carousel-indicators .active, .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span, hr.sm, .flex-control-nav a:hover, .flex-control-nav a.flex-active, .title-note, .timer-col #days, .featured-block strong, .featured-gallery, .nav-backed-header, .next-prev-nav a, .event-description .panel-heading, .media-box .media-box-wrapper, .staff-item .social-icons a, .accordion-heading .accordion-toggle.active, .accordion-heading:hover .accordion-toggle, .accordion-heading:hover .accordion-toggle.inactive, .nav-tabs li a:hover, .nav-tabs li a:active, .nav-tabs li.active a, .fc-event, .timeline > li > .timeline-badge, .header-style3 .toprow, .featured-star, .featured-event-time, .goingon-events-floater-inner, .products-list .product-image .add-to-cart {
+    background-color: #5F2167;
 }
-.mejs-controls .mejs-time-rail .mejs-time-loaded{
-    background: #653a71;
+.mejs-controls .mejs-time-rail .mejs-time-loaded {
+    background: #5F2167;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
 .btn-primary.active,
-.open .dropdown-toggle.btn-primary, .next-prev-nav a:hover, .staff-item .social-icons a:hover{
-    background: #653a71;
-    opacity:.9
+.open .dropdown-toggle.btn-primary, .next-prev-nav a:hover, .staff-item .social-icons a:hover {
+    background: #5F2167;
+    opacity: .9
 }
 .nav .open > a,
 .nav .open > a:hover,
@@ -125,15 +150,15 @@ a.list-group-item.active,
 a.list-group-item.active:hover,
 a.list-group-item.active:focus,
 .panel-primary,
-.panel-primary > .panel-heading, .fc-event{
-    border-color: #653a71;
+.panel-primary > .panel-heading, .fc-event {
+    border-color: #5F2167;
 }
-.panel-primary > .panel-heading + .panel-collapse .panel-body{
-    border-top-color: #653a71;
+.panel-primary > .panel-heading + .panel-collapse .panel-body {
+    border-top-color: #5F2167;
 }
-.panel-primary > .panel-footer + .panel-collapse .panel-body{
-    border-bottom-color: #653a71;
+.panel-primary > .panel-footer + .panel-collapse .panel-body {
+    border-bottom-color: #5F2167;
 }
-blockquote{
-    border-left-color: #653a71;
+blockquote {
+    border-left-color: #5F2167;
 }

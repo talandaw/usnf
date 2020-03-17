@@ -650,13 +650,13 @@ label {
 /* SITE STRUCTURE & APPEARANCE */
 /*-------------------------------------------------------------------------------------------*/
 body{
-	background-color:#ffffff;
-	color:#666666;
-	font-size:14px;
-	font-weight:400;
-	font-family: 'Roboto', serif;
-	line-height:20px;
-	background-attachment:fixed;
+	background-color: #ffffff;
+	color: #666666;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Roboto Condensed', serif;
+	line-height: 20px;
+	background-attachment: fixed;
 }
 body.boxed .body{
 	position:relative;

@@ -141,14 +141,20 @@
                             </div>
                             <div class="col-xs-9">
                                 <h3 class="text-primary">Southern California Naginata Federation</h3>
-                                <p>The mission of the Southern California Naginata Federation is to provide our students with the knowledge and tools to practice
-                                    quality Naginata while instilling self-confidence, self-discipline, respect towards others, stamina, grace, and good health.</p>
-                                <p>
-                                    <a href="./scnf-gallery" class="btn btn-primary">View Gallery <i class="fas fa-photo-video"></i></a>
-                                    <a href="https://www.scnf.org/" class="btn btn-info" target="_blank">External Site <i class="fas fa-external-link-alt"></i></i></a>
+                                <p>The mission of the Southern California Naginata Federation is to provide our students
+                                    with the knowledge and tools to practice
+                                    quality Naginata while instilling self-confidence, self-discipline, respect towards
+                                    others, stamina, grace, and good health.
                                 </p>
                                 <p>
-                                    <a href="https://www.facebook.com/Southern-California-Naginata-Federation-196033133810354/" target="_blank"><i class="fab fa-facebook-square fa-2x text-info"></i></a>
+                                    <a href="./scnf-gallery" class="btn btn-primary">View Gallery <i
+                                            class="fas fa-photo-video"></i></a>
+                                    <a href="https://www.scnf.org/" class="btn btn-info" target="_blank">External Site
+                                        <i class="fas fa-external-link-alt"></i></a>
+                                </p>
+                                <p>
+                                    <a href="https://www.facebook.com/Southern-California-Naginata-Federation-196033133810354/"
+                                       target="_blank"><i class="fab fa-facebook-square fa-2x text-info"></i></a>
                                 </p>
                             </div>
                         </div>

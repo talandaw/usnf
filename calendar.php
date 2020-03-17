@@ -140,7 +140,7 @@
 
                                 <li><a href="#">Gallery</a>
                                     <ul class="dropdown">
-                                        <li><a href="./us-gallery.php">USNF Events</a></li>
+                                        <li><a href="./us-gallery">USNF Events</a></li>
                                         <li><a href="#">Regional Galleries</a>
                                             <ul class="dropdown">
                                                 <li><a href="ecnf-gallery">East Coast</a></li>
