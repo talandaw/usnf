@@ -61,7 +61,7 @@
                                 </li>
                                 <li class="item event-item">
                                     <div class="event-date">
-                                        <span class="date">23-29</span> <span class="month">March</span>
+                                        <span class="date">28-29</span> <span class="month">March</span>
                                     </div>
                                     <div class="event-detail">
                                         <h4><a>
