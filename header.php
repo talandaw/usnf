@@ -33,25 +33,34 @@
     <!-- SCRIPTS
       ================================================== -->
     <script src="js/modernizr.js"></script><!-- Modernizr -->
-    <script src="https://kit.fontawesome.com/b321ba2714.js" crossorigin="anonymous"></script>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W94LCXM');</script>
+    <!-- End Google Tag Manager -->
 
-    <script>
-        Userback = window.Userback || {};
-        Userback.access_token = '4819|14939|CPSF4894BaDxPw2WTv531jnQdQHVUYpZTRK4CKm3fA2s9MmBwt';
-        (function (id) {
-            var s = document.createElement('script');
-            s.async = 1;
-            s.src = 'https://static.userback.io/widget/v1.js';
-            var parent_node = document.head || document.body;
-            parent_node.appendChild(s);
-        })('userback-sdk');
-    </script>
 </head>
 <body>
 <!--[if lt IE 7]>
 <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser
     today</a> to better experience this site.</p>
 <![endif]-->
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W94LCXM"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
 <div class="body">
     <!-- Start Site Header -->
     <header class="site-header">

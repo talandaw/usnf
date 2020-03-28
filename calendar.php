@@ -34,23 +34,33 @@
     <!-- SCRIPTS
       ================================================== -->
     <script src="js/modernizr.js"></script><!-- Modernizr -->
-    <script>
-        Userback = window.Userback || {};
-        Userback.access_token = '4819|14939|CPSF4894BaDxPw2WTv531jnQdQHVUYpZTRK4CKm3fA2s9MmBwt';
-        (function (id) {
-            var s = document.createElement('script');
-            s.async = 1;
-            s.src = 'https://static.userback.io/widget/v1.js';
-            var parent_node = document.head || document.body;
-            parent_node.appendChild(s);
-        })('userback-sdk');
-    </script>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W94LCXM');</script>
+    <!-- End Google Tag Manager -->
 </head>
 <body>
 <!--[if lt IE 7]>
 <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser
     today</a> to better experience this site.</p>
 <![endif]-->
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W94LCXM"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
 <div class="body">
     <!-- Start Site Header -->
     <header class="site-header hidden-print">
@@ -59,7 +69,8 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-8">
                         <h1 class="logo"><a href="./">
-                                <img src="./images/usnf-mon.png" alt="USNF Logo" class="img-responsive" width="70px"></a>
+                                <img src="./images/usnf-mon.png" alt="USNF Logo" class="img-responsive"
+                                     width="70px"></a>
                             | United States Naginata Federation
                         </h1>
                     </div>
