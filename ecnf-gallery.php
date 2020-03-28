@@ -27,8 +27,8 @@
 <!-- Start Content -->
 <div class="main" role="main">
     <div id="content" class="container content">
-        <p>All of the images files are hosted on Google Drive, clicking any image will open a new link to the larger
-            version. </p>
+        <p><label>Note:</label> All image and video files are hosted on Google Drive, clicking any thumbnail will open a
+            larger version of that file in a new window.</p>
         <iframe src="https://drive.google.com/embeddedfolderview?id=1ZYr2463pAKBPX7K0x6uwj9GlFK2xy2AW#grid" width="100%"
                 height="600" frameborder="0"></iframe>
     </div>
