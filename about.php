@@ -81,6 +81,43 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
+                    <h4>Officers 2020-2022</h4>
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                        <tr>
+                            <th> Title</th>
+                            <th> Name</th>
+                            <th> Federation</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td> President</td>
+                            <td> Ellery Engalla</td>
+                            <td> East Coast</td>
+                        </tr>
+                        <tr>
+                            <td> Vice-President</td>
+                            <td> Kevin Saxton</td>
+                            <td> Southern California</td>
+                        </tr>
+                        <tr>
+                            <td> Executive Secretary</td>
+                            <td> Shannon Lew</td>
+                            <td> Southern California</td>
+                        </tr>
+                        <tr>
+                            <td> Treasurer</td>
+                            <td> Takami Tanner</td>
+                            <td> Rocky Montains</td>
+                        </tr>
+                        <tr>
+                            <td> Recording Secretary</td>
+                            <td> Rebecca Pomeroy</td>
+                            <td> Greater New York</td>
+                        </tr>
+                        </tbody>
+                    </table>
                     <h4>Officers 2018-2020</h4>
                     <table class="table table-striped table-bordered">
                         <thead>
@@ -93,7 +130,7 @@
                         <tbody>
                         <tr>
                             <td> President</td>
-                            <td> Ellery Engala</td>
+                            <td> Ellery Engalla</td>
                             <td> East Coast</td>
                         </tr>
                         <tr>

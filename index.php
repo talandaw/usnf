@@ -35,11 +35,11 @@
                     <!-- Events Listing -->
                     <div class="listing events-listing">
                         <header class="listing-header">
-                            <h3 id="upcoming-events">Upcoming Events
-
-                                <a href="./calendar" class="pull-right btn btn-info">View Calendar</a>
+                            <h3 id="upcoming-events">This Month's Events
+                                <a href="./calendar" class="pull-right btn-info btn-lg">View Calendar <i
+                                            class="fas fa-external-link-square-alt"></i></a>
                             </h3>
-                        </header>
+                            <br></header>
                         <section class="listing-cont">
                             <ul>
                                 <li class="item event-item">
@@ -47,11 +47,9 @@
                                         <span class="date">14</span> <span class="month">March</span>
                                     </div>
                                     <div class="event-detail">
-                                        <h4><a>
-                                                USNF 2020 Annual General Meeting and Election
-                                            </a></h4>
+                                        <h4 class="text-primary">USNF 2020 Annual General Meeting and Election</h4>
                                         <span class="event-dayntime meta-data">
-                                            Our Annual Board Meeting will be held in New Jersey on March 14th, 2020. After the board meeting there will be a Shogo Review and testing up to Sandan offered.
+                                            Our Annual Board Meeting was held in New Jersey on March 14th, 2020. After the board meeting there was a Shogo Review and testing up to Sandan offered.
                                         </span></div>
                                     <!--
                                     <div class="to-event-url">
@@ -64,9 +62,7 @@
                                         <span class="date">28-29</span> <span class="month">March</span>
                                     </div>
                                     <div class="event-detail">
-                                        <h4><a>
-                                                ECNF JSS Annual Seminar and Taikai
-                                            </a></h4>
+                                        <h4 class="text-primary">ECNF JSS Annual Seminar and Taikai</h4>
                                         <span class="event-dayntime meta-data">
                                             ECNF and JSS has announced their annual seminar and taikai on March 28 and 29 at Nichibukan Naginata Dojo; Jersey City, NJ.
                                             It'll include: Saturday practice and Shinsa; Sunday Taikai.
@@ -86,26 +82,6 @@
                                 <li class="item post">
                                     <div class="row">
                                         <div class="col-xs-3">
-                                            <img src="./images/vote-election.jpg" alt="" class="img-thumbnail">
-                                        </div>
-                                        <div class="col-sm-9">
-                                            <div class="post-title">
-                                                <h2><a href="blog-post">
-                                                        USNF 2020 General Election</a></h2>
-                                                <span class="meta-data"><i
-                                                            class="fa fa-calendar"></i> March 14, 2020</span>
-                                            </div>
-                                            <p>Absentee ballots and instructions were sent out and must be
-                                                <em>received</em> by the USNF Executive Secretary by March 14.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li class="item post">
-                                    <div class="row">
-                                        <div class="col-xs-3">
                                             <img src="./images/save-the-date.jpg" alt="" class="img-thumbnail">
                                         </div>
                                         <div class="col-sm-9">
@@ -114,8 +90,7 @@
                                                 <span class="meta-data"><i class="fa fa-calendar"></i> July 29th - August 2nd, 2020</span>
                                             </div>
                                             <p>We have a date and location selected for the USNF Seminar, Taikai, and
-                                                Shinsa.
-                                                More information will be announced when available.
+                                                Shinsa. More information will be announced when available.
                                             </p>
                                         </div>
                                     </div>
@@ -160,17 +135,22 @@
         <div class="row">
             <div class="col-sm-3 col-xs-12">
                 <h4>Highlighted Selections From the USNF Gallery</h4>
-                <a href="#" class="btn btn-default btn-lg">View More</a></div>
+                <a href="./us-gallery" class="btn btn-default btn-lg">View More</a></div>
             <div class="col-sm-3 col-xs-4 post format-image">
-                <a href="./images/galleries/Serena%20Tang%20vs%20Shannon%20Lew%202016.jpg" class="media-box" data-rel="prettyPhoto[Gallery]">
-                    <img src="./images/galleries/Serena%20Tang%20vs%20Shannon%20Lew%202016.jpg" alt="Serena Tang vs Shannon Lew 2016">
+                <a href="./images/galleries/Serena%20Tang%20vs%20Shannon%20Lew%202016.jpg" class="media-box"
+                   data-rel="prettyPhoto[Gallery]">
+                    <img src="./images/galleries/Serena%20Tang%20vs%20Shannon%20Lew%202016.jpg"
+                         alt="Serena Tang vs Shannon Lew 2016">
                 </a></div>
             <div class="col-sm-3 col-xs-4 post format-image">
-                <a href="./images/galleries/Nayantara%20and%20Sasha%20engi%202016.jpg" class="media-box" data-rel="prettyPhoto[Gallery]">
-                    <img src="./images/galleries/Nayantara%20and%20Sasha%20engi%202016.jpg" alt="Nayantara and Sasha Engi 2016">
+                <a href="./images/galleries/Nayantara%20and%20Sasha%20engi%202016.jpg" class="media-box"
+                   data-rel="prettyPhoto[Gallery]">
+                    <img src="./images/galleries/Nayantara%20and%20Sasha%20engi%202016.jpg"
+                         alt="Nayantara and Sasha Engi 2016">
                 </a></div>
             <div class="col-sm-3 col-xs-4 post format-image">
-                <a href="./images/galleries/NCNF%20PNNF%20engi%20kyogi%202016.jpg" class="media-box" data-rel="prettyPhoto[Gallery]">
+                <a href="./images/galleries/NCNF%20PNNF%20engi%20kyogi%202016.jpg" class="media-box"
+                   data-rel="prettyPhoto[Gallery]">
                     <img src="./images/galleries/NCNF%20PNNF%20engi%20kyogi%202016.jpg" alt="NCNF and PNNF Engi Kyogi 2016">
                 </a></div>
         </div>

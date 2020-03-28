@@ -117,14 +117,16 @@
                                                         <ul class="sub-menu">
                                                             <li><a href="http://www.ecnf.net/" target="_blank">East
                                                                     Coast</a></li>
-                                                            <li><a href="https://www.facebook.com/GNYNF/" target="_blank">Greater
+                                                            <li><a href="https://www.facebook.com/GNYNF/"
+                                                                   target="_blank">Greater
                                                                     New York</a></li>
                                                             <li><a href="https://ncnf.tidyhq.com/" target="_blank">Northern
                                                                     California</a></li>
                                                             <li><a href="http://www.pnnf.org/" target="_blank">Pacific
                                                                     Northwest</a></li>
                                                             <li>
-                                                                <a href="#" data-placement="left" data-toggle="tooltip" data-original-title="Sorry, No Website">Rocky
+                                                                <a href="#" data-placement="right" data-toggle="tooltip"
+                                                                   data-original-title="Sorry, No Website">Rocky
                                                                     Mountain</a></li>
                                                             <li><a href="https://www.scnf.org/" target="_blank"">Southern
                                                                 California</a></li>
