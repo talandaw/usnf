@@ -60,10 +60,10 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-8">
                         <h1 class="logo hidden-xs"><a href="./">
-                                <img src="./images/usnf-logo.png" alt="USNF Logo" height="65px"></a>
+                                <img src="./images/USNF-Desktop-150.png" alt="USNF Logo" height="150px"></a>
                         </h1>
                         <h1 class="sm-logo visible-xs"><a href="./">
-                                <img src="./images/mobile-logo.png" alt="USNF Logo" height="50px"></a>
+                                <img src="./images/USNF-Mobile-100.png" alt="USNF Logo" height="100px"></a>
                         </h1>
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-4">
@@ -162,7 +162,8 @@
                                 <li><a href="#">For Members</a>
                                     <ul class="dropdown">
                                         <li>
-                                            <a href="#" class="btn btn-primary" data-placement="left" data-toggle="tooltip" data-original-title="Coming Soon!">Member
+                                            <a href="#" class="btn btn-primary" data-placement="left"
+                                               data-toggle="tooltip" data-original-title="Coming Soon!">Member
                                                 Login</a></li>
                                         <li><a href="membership">Membership Information</a></li>
                                         <li><a href="testing-paperwork">Dan & Kyu Testing Paperwork</a></li>

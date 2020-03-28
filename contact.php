@@ -74,7 +74,8 @@
                                 websites under "Regional Federations".
                             </li>
                             <li><i class="icon"></i>
-                                Found an issue with the website that you'd like to report? Please use the Feedback icon.
+                                Found an issue with the website that you'd like to report? Please use the Feedback
+                                button on the right ->
                             </li>
                     </div>
                 </div>

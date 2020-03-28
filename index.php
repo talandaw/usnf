@@ -44,7 +44,24 @@
                             <ul>
                                 <li class="item event-item">
                                     <div class="event-date">
-                                        <span class="date">23-29</span> <span class="month">March</span>
+                                        <span class="date">14</span> <span class="month">March</span>
+                                    </div>
+                                    <div class="event-detail">
+                                        <h4><a>
+                                                USNF 2020 Annual General Meeting and Election
+                                            </a></h4>
+                                        <span class="event-dayntime meta-data">
+                                            Our Annual Board Meeting will be held in New Jersey on March 14th, 2020. After the board meeting there will be a Shogo Review and testing up to Sandan offered.
+                                        </span></div>
+                                    <!--
+                                    <div class="to-event-url">
+                                        <div><a href="single-event" class="btn btn-default btn-sm">Details</a></div>
+                                    </div>
+                                    -->
+                                </li>
+                                <li class="item event-item">
+                                    <div class="event-date">
+                                        <span class="date">28-29</span> <span class="month">March</span>
                                     </div>
                                     <div class="event-detail">
                                         <h4><a>
@@ -65,6 +82,26 @@
                             <h3>Important Updates</h3>
                         </header>
                         <section class="listing-cont">
+                            <ul>
+                                <li class="item post">
+                                    <div class="row">
+                                        <div class="col-xs-3">
+                                            <img src="./images/vote-election.jpg" alt="" class="img-thumbnail">
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <div class="post-title">
+                                                <h2><a href="blog-post">
+                                                        USNF 2020 General Election</a></h2>
+                                                <span class="meta-data"><i
+                                                            class="fa fa-calendar"></i> March 14, 2020</span>
+                                            </div>
+                                            <p>Absentee ballots and instructions were sent out and must be
+                                                <em>received</em> by the USNF Executive Secretary by March 14.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
                             <ul>
                                 <li class="item post">
                                     <div class="row">
