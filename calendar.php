@@ -210,11 +210,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="hidden-print"><i class="fa fa-google-plus pull-right"></i>Calendar of Events</h1>
+                    <h1 class="hidden-print">Calendar of Events</h1>
                     <div class="visible-print">
                     <span class="row">
-                        <img src="./images/usnf-mon.png" alt="USNF Logo" width="70px">
-                        <span class="h3">United States Naginata Federation Calendar of Events</span>
+                        <img src="./images/USNF-Print-200.png" alt="USNF Logo" class="img-responsive">
                     </span>
                     </div>
                 </div>
@@ -226,16 +225,11 @@
     <div class="main" role="main">
         <div id="content" class="content full">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <div id='loading'>
-                            <h1>Loading Calendar...</h1>
-                            <img src="./images/calendar.jpg" class="img-responsive center-block">
-                        </div>
-                        <div id='calendar'></div>
-
-                    </div>
+                <div id='loading'>
+                    <h1 class="text-primary">Loading Calendar...</h1>
+                    <img src="./images/calendar.jpg" class="img-responsive center-block">
                 </div>
+                <div id='calendar'></div>
             </div>
         </div>
     </div>

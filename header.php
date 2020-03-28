@@ -69,7 +69,7 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-8">
                         <h1 class="logo hidden-xs"><a href="./">
-                                <img src="./images/USNF-Desktop-150.png" alt="USNF Logo" height="150px"></a>
+                                <img src="./images/USNF-Desktop-150.png" alt="USNF Logo" width="80%"></a>
                         </h1>
                         <h1 class="sm-logo visible-xs"><a href="./">
                                 <img src="./images/USNF-Mobile-100.png" alt="USNF Logo" height="100px"></a>
