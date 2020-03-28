@@ -39,7 +39,8 @@
                 dojo near you, use the map below to find the general area of the US you live in. Then go to the web site of that region to
                 contact a local instructor for instruction and verify class location and times.
             </p>
-            <iframe src="https://www.google.com/maps/d/embed?mid=1CwnsAuCI-WEwDPN71NDHmDJxjTax50OV" width="100%" height="480"></iframe>
+            <iframe src="https://www.google.com/maps/d/embed?mid=1CwnsAuCI-WEwDPN71NDHmDJxjTax50OV" width="100%"
+                    height="480"></iframe>
             <div class="row">
                 <div class="col-md-9 posts-archive causes-archive">
                     <article class="post cause-item">
@@ -49,15 +50,20 @@
                             </div>
                             <div class="col-xs-9">
                                 <h3 class="text-primary">East Coast Naginata Federation</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas
-                                    rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris
-                                    quam...</p>
+                                <p>We are the ECNF, seven professional dojos located throughout the east coast of the
+                                    United States reaching from Puerto Rico, Maryland, Virginia, New Jersey and
+                                    Massachusetts.
+                                    We are dedicated to quality budo education, high ethical standards and firm
+                                    attention to reiho in our instruction of the classical martial art of Naginata.</p>
                                 <p>
-                                    <a href="./ecnf-gallery" class="btn btn-primary">View Gallery <i class="fas fa-photo-video"></i></a>
-                                    <a href="http://www.ecnf.net/" class="btn btn-info" target="_blank">External Site <i class="fas fa-external-link-alt"></i></i></a>
+                                    <a href="./ecnf-gallery" class="btn btn-primary">View Gallery <i
+                                                class="fas fa-photo-video"></i></a>
+                                    <a href="http://www.ecnf.net/" class="btn btn-info" target="_blank">External Site <i
+                                                class="fas fa-external-link-alt"></i></i></a>
                                 </p>
                                 <p>
-                                    <a href="https://www.facebook.com/eastcoastnaginata/" target="_blank"><i class="fab fa-facebook-square fa-2x text-info"></i></a>
+                                    <a href="https://www.facebook.com/eastcoastnaginata/" target="_blank"><i
+                                                class="fab fa-facebook-square fa-2x text-info"></i></a>
                                 </p>
                             </div>
                         </div>
@@ -69,13 +75,19 @@
                             </div>
                             <div class="col-xs-9">
                                 <h3 class="text-primary">Greater New York Naginata Federation</h3>
-                                <p>The Greater New York Naginata Federation (GNYNF) aims to allow members of the community to practice Naginata, a martial art designed
-                                    to foster balance between mind and body. It is a lifelong pursuit of learning and personal development.</p>
+                                <p>The Greater New York Naginata Federation (GNYNF) aims to allow members of the
+                                    community to practice Naginata, a martial art designed
+                                    to foster balance between mind and body. It is a lifelong pursuit of learning and
+                                    personal development.</p>
                                 <p>
-                                    <a href="./gnynf-gallery" class="btn btn-primary">View Gallery <i class="fas fa-photo-video"></i></a>
+                                    <a href="./gnynf-gallery" class="btn btn-primary">View Gallery <i
+                                                class="fas fa-photo-video"></i></a>
+                                    <a href="http://www.gnynf.net/" class="btn btn-info" target="_blank">External Site
+                                        <i class="fas fa-external-link-alt"></i></i></a>
                                 </p>
                                 <p>
-                                    <a href="https://www.facebook.com/GNYNF/" target="_blank"><i class="fab fa-facebook-square fa-2x text-info"></i></a>
+                                    <a href="https://www.facebook.com/GNYNF/" target="_blank"><i
+                                                class="fab fa-facebook-square fa-2x text-info"></i></a>
                                 </p>
                             </div>
                         </div>

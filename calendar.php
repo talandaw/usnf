@@ -110,14 +110,16 @@
                                                     <div class="col-md-4 hidden-sm hidden-xs">
                                                         <span class="megamenu-sub-title"><i class="fa fa-photo"></i> Featured Media</span>
                                                         <!--<iframe width="200" height="150" src="http://player.vimeo.com/video/19564018?title=0&amp;byline=0&amp;color=007F7B"></iframe>-->
-                                                        <img src="./images/usnf-participants.JPG" height="150" alt="USA Participants, 2019 Germany INF">
+                                                        <img src="./images/usnf-participants.JPG" height="150"
+                                                             alt="USA Participants, 2019 Germany INF">
                                                     </div>
                                                     <div class="col-md-4">
-                                                        <span class="megamenu-sub-title"><i class="fa fa-map-marker"></i> Our Locations</span>
+                                                        <span class="megamenu-sub-title"><i
+                                                                    class="fa fa-map-marker"></i> Our Locations</span>
                                                         <ul class="sub-menu">
                                                             <li><a href="http://www.ecnf.net/" target="_blank">East
                                                                     Coast</a></li>
-                                                            <li><a href="https://www.facebook.com/GNYNF/"
+                                                            <li><a href="http://www.gnynf.net/"
                                                                    target="_blank">Greater
                                                                     New York</a></li>
                                                             <li><a href="https://ncnf.tidyhq.com/" target="_blank">Northern

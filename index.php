@@ -59,6 +59,16 @@
                                 </li>
                                 <li class="item event-item">
                                     <div class="event-date">
+                                        <span class="date">28</span> <span class="month">March</span>
+                                    </div>
+                                    <div class="event-detail">
+                                        <h4 class="text-primary">NCNF General Meeting & Elections</h4>
+                                        <span class="event-dayntime meta-data">
+                                            NCNF is hosting their annual general elections which this year includes officer elections.
+                                        </span></div>
+                                </li>
+                                <li class="item event-item">
+                                    <div class="event-date">
                                         <span class="date">28-29</span> <span class="month">March</span>
                                     </div>
                                     <div class="event-detail">
